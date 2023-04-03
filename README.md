@@ -42,5 +42,5 @@ Start the Redis and MongoDB services on your system and run `yarn start-server` 
 
 ## Authors
 
-+ TOLULOPE FAKUNLE
++ Caren-Koroeny
 
